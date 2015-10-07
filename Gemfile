@@ -15,3 +15,5 @@ gem 'twitter-bootstrap-rails'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
+
+gem 'rails-i18n', '~> 4.0.0'
